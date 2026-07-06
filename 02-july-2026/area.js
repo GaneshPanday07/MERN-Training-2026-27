@@ -18,7 +18,7 @@ let triangle = (b, h)=> {
     return areaoftriangle;
 }
 
-module.export = {
+module.exports = {
     circle,
     rectangle,
     triangle

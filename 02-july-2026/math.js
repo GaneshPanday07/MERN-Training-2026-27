@@ -19,13 +19,11 @@ module.exports = {
 exports.add = function(a, b)  {
   let c = a + b;
   console.log("This is add function");
-  console.log(c);
   return c;
 }
 
 exports.substract = function(a, b) {
   console.log("This is a substract function");
   let c = a - b;
-  console.log(c);
   return c;
 };

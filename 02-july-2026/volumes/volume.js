@@ -7,7 +7,7 @@ const volume_cone = (r, h) => {
     return (1/3)* 3.14 * (r) * (r) * (h)
 }
 
-module.export = {
+module.exports = {
     volume_cone,
     volume_cube,
     
