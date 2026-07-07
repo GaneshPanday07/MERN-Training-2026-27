@@ -199,7 +199,7 @@
         "id": 29,
         "first_name": "Marlin",
         "last_name": "Pinfold",
-        "email": "mpinfolds@mapy.cz",
+        "email": "gp789gmail.com",
         "gender": "Male"
     },
     {
@@ -208,5 +208,19 @@
         "last_name": "Betonia",
         "email": "mbetoniat@free.fr",
         "gender": "Female"
+    },
+    {
+        "id": 31,
+        "first_name": "Raffaello",
+        "last_name": "Vrtyan",
+        "email": "fdfdfn0@apache.org",
+        "gender": "Non-binary"
+    },
+    {
+        "id": 32,
+        "first_name": "yogesh",
+        "last_name": "sharma",
+        "email": "ys0@apache.org",
+        "gender": "male"
     }
 ]

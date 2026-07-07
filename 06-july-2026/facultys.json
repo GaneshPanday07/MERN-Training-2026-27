@@ -1,0 +1,41 @@
+[{
+    "facultyId": 1,
+    "first_name": "Raffaello",
+    "last_name": "Vivyan",
+    "email": "rvivyan0@apache.org",
+    "gender": "Non-binary",
+    "salary": 12000
+},
+{
+    "facultyId": 2,
+    "first_name": "Padriac",
+    "last_name": "Ajsik",
+    "email": "pajsik1@imageshack.us",
+    "gender": "Male",
+    "salary": 13000
+},
+{
+    "facultyId": 3,
+    "first_name": "Idell",
+    "last_name": "Dabner",
+    "email": "idabner2@clickbank.net",
+    "gender": "Female",
+    "salary": 16000
+},
+{
+    "facultyId": 4,
+    "first_name": "Jessey",
+    "last_name": "Klarzynski",
+    "email": "jklarzynski3@bluehost.com",
+    "gender": "Male",
+    "salary": 18000
+},
+{
+    "facultyId": 5,
+    "first_name": "Rollo",
+    "last_name": "Coneybeer",
+    "email": "rconeybeer4@ameblo.jp",
+    "gender": "Male",
+    "salary": 22000
+}
+]
