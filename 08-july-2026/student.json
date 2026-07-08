@@ -1,0 +1,212 @@
+[
+    {
+        "Rollno": 1,
+        "first_name": "Reinold",
+        "last_name": "Dunnion",
+        "email": "rdunnion0@msu.edu",
+        "gender": "Male"
+    },
+    {
+        "Rollno": 2,
+        "first_name": "Ellwood",
+        "last_name": "Edon",
+        "email": "eedon1@tinypic.com",
+        "gender": "Male"
+    },
+    {
+        "Rollno": 3,
+        "first_name": "Alberta",
+        "last_name": "Yankov",
+        "email": "ayankov2@linkedin.com",
+        "gender": "Female"
+    },
+    {
+        "Rollno": 4,
+        "first_name": "Teodoro",
+        "last_name": "Grumell",
+        "email": "tgrumell3@sakura.ne.jp",
+        "gender": "Male"
+    },
+    {
+        "Rollno": 5,
+        "first_name": "Lyn",
+        "last_name": "Gonin",
+        "email": "lgonin4@mapquest.com",
+        "gender": "Bigender"
+    },
+    {
+        "Rollno": 6,
+        "first_name": "Krista",
+        "last_name": "Rapaport",
+        "email": "krapaport5@yahoo.co.jp",
+        "gender": "Female"
+    },
+    {
+        "Rollno": 7,
+        "first_name": "Kacie",
+        "last_name": "Ackrill",
+        "email": "kackrill6@e-recht24.de",
+        "gender": "Bigender"
+    },
+    {
+        "Rollno": 8,
+        "first_name": "Shirlene",
+        "last_name": "Gissop",
+        "email": "gp@gmail.com",
+        "gender": "Female"
+    },
+    {
+        "Rollno": 9,
+        "first_name": "Pembroke",
+        "last_name": "Dallow",
+        "email": "pdallow8@linkedin.com",
+        "gender": "Male"
+    },
+    {
+        "Rollno": 10,
+        "first_name": "Vanna",
+        "last_name": "Antoniades",
+        "email": "vantoniades9@google.es",
+        "gender": "Genderfluid"
+    },
+    {
+        "Rollno": 11,
+        "first_name": "Felix",
+        "last_name": "Coale",
+        "email": "fcoalea@reverbnation.com",
+        "gender": "Male"
+    },
+    {
+        "Rollno": 12,
+        "first_name": "Ambrosius",
+        "last_name": "Kener",
+        "email": "akenerb@vk.com",
+        "gender": "Male"
+    },
+    {
+        "Rollno": 13,
+        "first_name": "Barnebas",
+        "last_name": "Wileman",
+        "email": "bwilemanc@histats.com",
+        "gender": "Male"
+    },
+    {
+        "Rollno": 14,
+        "first_name": "Husain",
+        "last_name": "Dron",
+        "email": "hdrond@gnu.org",
+        "gender": "Male"
+    },
+    {
+        "Rollno": 15,
+        "first_name": "Jakob",
+        "last_name": "Macy",
+        "email": "jmacye@bbc.co.uk",
+        "gender": "Male"
+    },
+    {
+        "Rollno": 16,
+        "first_name": "Farrand",
+        "last_name": "Trigwell",
+        "email": "ftrigwellf@4shared.com",
+        "gender": "Female"
+    },
+    {
+        "Rollno": 17,
+        "first_name": "Essa",
+        "last_name": "Piotrkowski",
+        "email": "epiotrkowskig@paginegialle.it",
+        "gender": "Female"
+    },
+    {
+        "Rollno": 18,
+        "first_name": "Phyllida",
+        "last_name": "Kettlesting",
+        "email": "pkettlestingh@seattletimes.com",
+        "gender": "Genderfluid"
+    },
+    {
+        "Rollno": 19,
+        "first_name": "Osgood",
+        "last_name": "Cornforth",
+        "email": "ocornforthi@ocn.ne.jp",
+        "gender": "Male"
+    },
+    {
+        "Rollno": 20,
+        "first_name": "Rickie",
+        "last_name": "Kuhne",
+        "email": "rkuhnej@sogou.com",
+        "gender": "Male"
+    },
+    {
+        "Rollno": 21,
+        "first_name": "Clement",
+        "last_name": "Ziemens",
+        "email": "cziemensk@huffingtonpost.com",
+        "gender": "Male"
+    },
+    {
+        "Rollno": 22,
+        "first_name": "Donica",
+        "last_name": "Riddles",
+        "email": "driddlesl@dailymail.co.uk",
+        "gender": "Female"
+    },
+    {
+        "Rollno": 23,
+        "first_name": "Lockwood",
+        "last_name": "Cobden",
+        "email": "lcobdenm@mayoclinic.com",
+        "gender": "Male"
+    },
+    {
+        "Rollno": 24,
+        "first_name": "Daron",
+        "last_name": "Harpin",
+        "email": "dharpinn@constantcontact.com",
+        "gender": "Male"
+    },
+    {
+        "Rollno": 25,
+        "first_name": "Cornell",
+        "last_name": "Clink",
+        "email": "cclinko@imageshack.us",
+        "gender": "Male"
+    },
+    {
+        "Rollno": 26,
+        "first_name": "Crosby",
+        "last_name": "Checchetelli",
+        "email": "cchecchetellip@usatoday.com",
+        "gender": "Genderqueer"
+    },
+    {
+        "Rollno": 27,
+        "first_name": "Judith",
+        "last_name": "Kears",
+        "email": "jkearsq@paypal.com",
+        "gender": "Female"
+    },
+    {
+        "Rollno": 28,
+        "first_name": "Leontyne",
+        "last_name": "Bowdidge",
+        "email": "lbowdidger@mashable.com",
+        "gender": "Female"
+    },
+    {
+        "Rollno": 29,
+        "first_name": "Wilbur",
+        "last_name": "Habberjam",
+        "email": "whabberjams@biblegateway.com",
+        "gender": "Male"
+    },
+    {
+        "Rollno": 32,
+        "first_name": "Teodoro",
+        "last_name": "Grumell",
+        "email": "tgrumell3@sakura.ne.jp",
+        "gender": "Male"
+    }
+]
