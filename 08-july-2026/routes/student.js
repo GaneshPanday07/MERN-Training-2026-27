@@ -1,52 +1,32 @@
 const express = require('express');
 const students = require('../student.json')
+const StudentController = require('../controllers/studentController')
 const fs = require('fs')
 const route = express.Router()
 
 
-// '/student' : for call all student data
+// '/student' : http://localhost:3000/students
 route.get('/students', (req, res)=> {
-    res.json(students)
+    StudentController.getStudents(req, res)
 })
 
 // http://localhost:3000/student/4
 route.get('/student/:Rollno', (req, res)=> {
-   
+   StudentController.getStudentByRollno(req, res)
 })
 
 //post method =  http://localhost:3000/add/student
 route.post('/add/student', (req, res)=> {
-   
+   StudentController.addStudent(req, res)
 })
 
 // put method = http://localhost:3000/edit/student/3
 route.put('/edit/student/:Rollno', (req, res)=> {
-    let Rollno = req.params.Rollno;
-    console.log(Rollno)
-    let index = students.findIndex((student)=> student.Rollno == Rollno)
-    console.log(index)
-    students[index].email="gp@gmail.com";
-    fs.writeFile('student.json', JSON.stringify(students), (err)=> {
-        if(err){
-            console.log("file updating is fail");
-        }else{
-            res.end("update file successfully......")
-        }
-    })
+    StudentController.editStudent(req, res)
 })
 
 // delete method = http://localhost:3000/delete/student/5
 route.delete('/delete/student/:Rollno', (req, res)=> {
-    let Rollno = req.params.Rollno;
-    console.log(Rollno)
-    let index = students.findIndex((student)=> student.Rollno == Rollno)
-    students.splice(index, 1);
-    fs.writeFile('student.json', JSON.stringify(students), (err)=> {
-        if(err){
-            console.log("data not delete")
-        }else{
-            res.end("delete successfully.......")
-        }
-    })
+    StudentController.deleteStudent(req, res)
 })
 module.exports = route;

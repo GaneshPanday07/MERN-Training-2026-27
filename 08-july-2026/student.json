@@ -17,7 +17,7 @@
         "Rollno": 3,
         "first_name": "Alberta",
         "last_name": "Yankov",
-        "email": "ayankov2@linkedin.com",
+        "email": "ys@gmail.com",
         "gender": "Female"
     },
     {
@@ -200,13 +200,6 @@
         "first_name": "Wilbur",
         "last_name": "Habberjam",
         "email": "whabberjams@biblegateway.com",
-        "gender": "Male"
-    },
-    {
-        "Rollno": 32,
-        "first_name": "Teodoro",
-        "last_name": "Grumell",
-        "email": "tgrumell3@sakura.ne.jp",
         "gender": "Male"
     }
 ]

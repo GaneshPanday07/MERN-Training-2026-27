@@ -5,7 +5,7 @@ const fs = require('fs');
 const student = require('./routes/student')
 const book = require('./routes/book')
 app.use(student);
-app.use(book);
+//app.use(book);
 
 
 app.listen(3000, (err)=> {

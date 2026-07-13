@@ -11,18 +11,8 @@
     },
     {
         "bookId": 3,
-        "bookName": "Adelind",
+        "bookName": "Goat",
         "Price": "Salisbury"
-    },
-    {
-        "bookId": 4,
-        "bookName": "Kacey",
-        "Price": "Wickerson"
-    },
-    {
-        "bookId": 5,
-        "bookName": "Mariejeanne",
-        "Price": "Drew"
     },
     {
         "bookId": 8,
