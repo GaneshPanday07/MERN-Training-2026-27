@@ -1,11 +1,12 @@
 const express = require('express')
 const connect = require("./connection");
-const student = require('./routes/student')
-const app = express()
-app.use(express.json())
-app.use(student)
+const app = express();
+app.use(express.json());
+//const student = require('./routes/student')
+const mobile = require('./routes/mobile')
+//app.use(student)
+app.use(mobile);
 connect()
-
 
 
 
