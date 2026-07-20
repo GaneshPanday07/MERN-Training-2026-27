@@ -14,7 +14,19 @@ const addstudent = async(req, res)=> {
         console.log(err)
     }
 }
+
+const getstudents = async(req, res)=> {
+    try{
+        let students = await Student.find({}); 
+        res.render('studentlist', {
+            students: students
+        })
+    } catch(err){
+        console.log(err)
+    }
+}
 module.exports = {
   students,
   addstudent,
+  getstudents
 };

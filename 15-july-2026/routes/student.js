@@ -12,4 +12,8 @@ router.post('/add/student', (req, res)=> {
     StudentController.addstudent(req, res)
 })
 
+router.get('/students', (req, res)=> {
+    StudentController.getstudents(req,res)
+})
+
 module.exports = router
